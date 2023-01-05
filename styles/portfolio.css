@@ -54,13 +54,14 @@ nav li {
 }
 
 .subtitle {
-    font-weight: 600;
-    font-size: 45px;
+    font-weight: 200;
+    font-size: 30px;
 }
 
 .maintitle {
-    font-weight: 600;
-    font-size: 60px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 20px;
 }
 
 .paragrtaphtitle {
@@ -187,6 +188,14 @@ main {
     margin: 20px auto;
 }
 .resume-button{
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    background:red;
+    border: 0px;
+    border-radius: 10px;
     text-align: center;
-margin-top: 10px;
+    max-width: 100px;
+    margin: 10px auto;
+    padding: 10px;
 }
